@@ -10,5 +10,3 @@ DiaDiary - дневник диабета
 - Шерстобитов Андрей
 
 v1.0 pre-alpha
-
-Ссылка на приложение: http://diadiary.herokuapp.com
